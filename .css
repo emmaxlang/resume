@@ -2,5 +2,17 @@
 @import url('https://bootswatch.com/yeti/bootstrap.min.css');
 
 body {
-    margin: 10px;
-}
+    margin: 9px;
+    }
+
+.container {
+  display: flex;
+    }
+
+.container {
+  justify-content: stretch-end
+    }
+
+.container {
+  align-items: centre 
+    }
